@@ -1,0 +1,8 @@
+fastapi
+playwright
+pydantic==2.12.5
+python_json_logger==4.0.0
+asyncio==4.0.0
+futures
+uvicorn
+python-multipart
